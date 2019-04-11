@@ -2,17 +2,17 @@
 ------
 
 ### Art Piece 1
-![Aaron Koblin](images/pic1.jpg?raw=true "Aaron Koblin")
+![David Cool](images/pic1.jpg?raw=true "David Cool")
 
-Aaron Koblin created an awesome visualization of Amsterdam SMS messages around the times of New Years Eve. If you follow the link you can see buildings are "created" as SMS messages begin to be sent. I enjoyed this piece because I was surprised he was able to get SMS data legally (even though I'm sure it was anonymous) which I thought was interesting and that the data showed elevation to make the piece come off the page. Additionally, I'm actually going to Amsterdam soon so it was exciting to see such a cool representation of the city.
+David Cool created a very interesting piece to explore his connection to Bhutan and other influences. His piece is different as it combines something mystical with the arrangement of the eyes across the room as well as the time lapse of the sun in the center. While this is not personally my style I still found the piece fascinating in how it combined such a wide array of subjects.
 
-[Here's a link to the piece](http://www.aaronkoblin.com/project/amsterdam-sms/)
+[Here's a link to the piece](https://davidcool.com/portfolio/ether-bardo-installation/)
 
 ### Art Piece 2
 
-![Pitch Interactive](images/pic2.jpg?raw=true "Pitch Interactive")
+![ART+COM Studios](images/pic2.jpg?raw=true "ART+COM Studios")
 
-Pitch Interactive took annual Flu season data and plotted it to show how difficult it is for doctors and staff to predict medical supply needs. I was drawn to this piece because while it has a pleasant look, the message behind it is interesting. Furthermore, in light of increasing outbreaks of older diseases in places like Seattle due to the Anti-Vax movement the piece seems even more relevant now.
+Art Com Studios a very neat piece here which takes in the kinetic energy of cars passing by and transforms it into light energy in the seven LED steles. The piece reads the kinetic energy of each car separately and sums it to get the result which leads to the work being more active during high traffic hours. I really like the simplicity of the piece and warm colors used which seem to match the lights of the passing cars.
 
-[Here's a link to the piece](https://www.popsci.com/content/numbers-flu-season-visualized#page-2)
+[Here's a link to the piece](https://artcom.de/en/project/reactive-sparks/)
 
